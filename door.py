@@ -44,7 +44,7 @@ class Door:
 
     def lock_the_door(self):
         """
-        Methode für das verriegeln der Türe.
+        Methode für das verri egeln der Türe.
         Das ist nur möglich, wenn die Türe nicht offen ist.
         Für das verriegeln ist aber das Türschloss zuständig. Es weiss wie das geht.
         """
